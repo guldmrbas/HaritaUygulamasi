@@ -5,6 +5,8 @@
 //  Created by Gülsüm Demirbaş on 26.03.2024.
 //
 
+
+// this is a test commnet from Muharrem Candan
 import UIKit
 import CoreData
 
